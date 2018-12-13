@@ -1,2 +1,4 @@
 # mips-hanoi
-A Tower of Hanoi implementation in MIPS asm
+A Towers of Hanoi implementation in MIPS asm. Developed in [MARS](https://courses.missouristate.edu/KenVollmar/MARS/download.htm).
+
+CSCI 352 - Prof. Steven D. Nelson 
